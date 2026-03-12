@@ -1,7 +1,7 @@
 # ⚡ GodChat - Next-Gen Communication Platform
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?q=80&w=1200&auto=format&fit=crop" alt="GodChat Banner" width="100%" style="border-radius: 15px;" />
+  <img src="https://img.freepik.com/free-vector/speech-bubble-icon_24911-115292.jpg?semt=ais_rp_progressive&w=740&q=80" alt="GodChat Banner" width="100%" style="border-radius: 15px;" />
   <br/>
   <p><strong>A highly interactive, state-driven chat application simulating top-tier social platforms.</strong></p>
   
