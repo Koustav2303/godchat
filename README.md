@@ -114,7 +114,7 @@ git clone [https://github.com/Koustav2303/godchat.git](https://github.com/Kousta
 
 2. **Navigate to the project directory:**
 ```bash
-cd godchat
+cd god-level-chat
 
 ```
 
